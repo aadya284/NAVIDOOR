@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "NAVIDOOR",
+    "slug": "navidoor",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.navidoor.assist"
+    },
+    "android": {
+      "package": "com.navidoor.assist"
+    }
+  }
+}
